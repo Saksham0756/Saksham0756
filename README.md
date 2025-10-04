@@ -3,7 +3,8 @@
 <img align="right" alt="coding" width="400" src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ae64cf80-84b2-4ca2-88b2-e315da16ba72" />
 ">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham0756&label=Profile%20views&color=0e75b6&style=flat" alt="saksham0756" /> </p>
+<p align="left"> <img src=<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/17da6078-fedc-4991-9f8d-c470841a98f4" />
+</p>
 
 - 🔭 I’m currently working on **Jarvis AI assistant with iot integration**
 
