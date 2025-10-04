@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Singh</h1>
 <h3 align="center">"Final-year B.Tech CSE (IoT) student 🚀 | Exploring the world of Artificial Intelligence 🤖 & Smart IoT Systems 🌐 | Passionate about building intelligent, real</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/d19c65e6-7b34-4465-8f7f-624352a6d62f" />
+">
 
 <p align="left"> <img src=<"<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/6192bdae-c8f9-4a92-a515-b86d363be1e1" />
 ">
