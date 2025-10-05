@@ -46,6 +46,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham0756&layout=compact&theme=radical" alt="langs" height="180"/>
 </p>
 
+---
+
+### 🎮 My Contributions (Game Mode)  
+<p align="center">
+  <a href="https://github.com/saksham0756">
+    <img alt="Interactive Game" src="https://media.giphy.com/media/3o7aD6vG6Uj6nq0t5y/giphy.gif" width="400"/>
+  </a>
+  <br>
+  <i>Click on the GIF to check my GitHub contributions!</i>
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham0756&theme=radical" alt="streak"/>
 </p>
