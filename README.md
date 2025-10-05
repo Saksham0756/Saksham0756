@@ -10,7 +10,7 @@
 ### 🌟 About Me  
 - 🔭 Currently working on **Jarvis AI assistant with IoT integration**  
 - 🌱 Learning **Machine Learning | Deep Learning | AI-powered IoT**  
-- 🎯 Goal: **AI Engineer @ Top Tech Company (36 LPA+)**  
+- 🎯 Goal: **AI Engineer @ Top Tech Company (24 LPA+)**  
 - 📫 Reach me at: **saksham0756@gmail.com**
 
 ---
@@ -59,7 +59,7 @@
 
 <!-- New GIF below Game Contribution -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXM1amR6dGJmcnE5NnZ1anRtcGZnOWduMHJyOGtrZmVweWhpYXhrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QEZVvs2iFzDYA/giphy.gif" alt="fun coding gif" width="800"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXM1amR6dGJmcnE5NnZ1anRtcGZnOWduMHJyOGtrZmVweWhpYXhrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QEZVvs2iFzDYA/giphy.gif" alt="fun coding gif" width="900"/>
 </p>
 
 ---
