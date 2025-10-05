@@ -4,9 +4,6 @@
 <!-- First GIF (upper right) -->
 <img align="right" alt="coding gif" width="400" src="https://github.com/user-attachments/assets/859af49b-e6cf-4957-9ad2-6b915ee2a023" />
 
-<!-- Second GIF (lower right, below first GIF) -->
-<img align="right" alt="fun coding gif" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXcyd2ZoejBuMTA5bGFkdjh5Mm50eHhnYXByeW54cm9nZGN3Y2ZvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" />
-
 - 🔭 I’m currently working on **Jarvis AI assistant with IoT integration**  
 - 📫 How to reach me **saksham0756@gmail.com**
 
@@ -44,3 +41,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham0756&" alt="saksham0756" /></p>
 
+<!-- Second GIF (bottom-right of page) -->
+<p align="right">
+  <img alt="fun coding gif" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXcyd2ZoejBuMTA5bGFkdjh5Mm50eHhnYXByeW54cm9nZGN3Y2ZvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" />
+</p>
