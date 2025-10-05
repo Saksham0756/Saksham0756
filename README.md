@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saksham Singh</h1>
-<h3 align="center">Final-year B.Tech CSE (IoT) student 🚀 | Exploring the world of Artificial Intelligence 🤖 & Smart IoT Systems 🌐 | Passionate about building intelligent, real-world solutions</h3>
+<h3 align="center">Final-year B.Tech CSE (IoT) student 🚀 | Exploring Artificial Intelligence 🤖 & Smart IoT Systems 🌐 | Passionate about building intelligent, real-world solutions</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/340312c0-5359-4bd4-ac89-b9fe2058df2f" />
-
-<p align="left"> 
-  <img width="680" height="428" alt="gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzljOWR3N3IyMHhxc3B2eWMzbnYybDlzdGJwbGRnbm13bzhrdDhtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
-</p>
+<!-- GIF on upper right -->
+<img align="right" alt="coding gif" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzljOWR3N3IyMHhxc3B2eWMzbnYybDlzdGJwbGRnbm13bzhrdDhtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
 
 - 🔭 I’m currently working on **Jarvis AI assistant with IoT integration**  
 - 📫 How to reach me **saksham0756@gmail.com**
