@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saksham Singh</h1>
 <h3 align="center">"Final-year B.Tech CSE (IoT) student 🚀 | Exploring the world of Artificial Intelligence 🤖 & Smart IoT Systems 🌐 | Passionate about building intelligent, real</h3>
 <img align="right" alt="coding" width="400"  src="<"https://github.com/user-attachments/assets/340312c0-5359-4bd4-ac89-b9fe2058df2f" />
-" />
-">
 
 <p align="left"> <img src=<"<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/6192bdae-c8f9-4a92-a515-b86d363be1e1" />
-">
+
 </p>
 
 - 🔭 I’m currently working on **Jarvis AI assistant with iot integration**
