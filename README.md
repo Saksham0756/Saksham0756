@@ -52,14 +52,14 @@
 
 ---
 
-### 🐍 Game Contribution Section  
+ 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <!-- New GIF below Game Contribution -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXM1amR6dGJmcnE5NnZ1anRtcGZnOWduMHJyOGtrZmVweWhpYXhrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QEZVvs2iFzDYA/giphy.gif" alt="fun coding gif" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXM1amR6dGJmcnE5NnZ1anRtcGZnOWduMHJyOGtrZmVweWhpYXhrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QEZVvs2iFzDYA/giphy.gif" alt="fun coding gif" width="800"/>
 </p>
 
 ---
