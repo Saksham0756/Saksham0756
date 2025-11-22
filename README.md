@@ -8,7 +8,7 @@
 <img align="right" alt="fun coding gif" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXcyd2ZoejBuMTA5bGFkdjh5Mm50eHhnYXByeW54cm9nZGN3Y2ZvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" />
 
 ### 🌟 About Me  
-- 🔭 Currently working on **Jarvis AI assistant with IoT integration**  
+- 🔭 Currently working on **SerenAI reimagined Emotion AI Assistant **  
 - 🌱 Learning **Machine Learning | Deep Learning | AI-powered IoT**  
 - 🎯 Goal: **AI Engineer @ Top Tech Company (24 LPA+)**  
 - 📫 Reach me at: **saksham0756@gmail.com**
